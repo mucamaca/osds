@@ -1,0 +1,8 @@
+body, html {
+	background-color: #ffdcc5;
+	height: 100%;
+}
+
+.logo {
+	max-height: 220px;
+}
