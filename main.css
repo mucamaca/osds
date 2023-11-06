@@ -1,8 +1,9 @@
 body, html {
-	background-color: #89bcf8;
+	background-image: url("background.png");
 	height: 100%;
+	background-repeat: repeat;
 }
 
 .logo {
-	max-height: 220px;
+	max-height: 215px;
 }
